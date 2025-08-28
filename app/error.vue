@@ -11,8 +11,3 @@ import errorImage from './assets/images/404.svg?raw'
     />
   </NuxtLayout>
 </template>
-
-<script>
-window.location.href = 'https://frameled.eu/';
-</script>
-
